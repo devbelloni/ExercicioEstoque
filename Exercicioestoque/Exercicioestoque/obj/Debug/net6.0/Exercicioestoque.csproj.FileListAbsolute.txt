@@ -1,0 +1,16 @@
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\bin\Debug\net6.0\Exercicioestoque.exe
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\bin\Debug\net6.0\Exercicioestoque.deps.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\bin\Debug\net6.0\Exercicioestoque.runtimeconfig.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\bin\Debug\net6.0\Exercicioestoque.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\bin\Debug\net6.0\ref\Exercicioestoque.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\bin\Debug\net6.0\Exercicioestoque.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\Exercicioestoque.GlobalUsings.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\Exercicioestoque.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\Exercicioestoque.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\Exercicioestoque.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\Exercicioestoque.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\Exercicioestoque.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\Exercicioestoque.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\ref\Exercicioestoque.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\Exercicioestoque.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Exercicioestoque\Exercicioestoque\obj\Debug\net6.0\Exercicioestoque.genruntimeconfig.cache
